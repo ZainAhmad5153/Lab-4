@@ -1,2 +1,3 @@
  cout << "The sum of " << a << " and " << b << " is " << (a + b) << endl;
 cout << "The difference between " << a << " and " << b << " is " << (a - b) << endl;
+cout << "The product of " << a << " and " << b << " is " << (a * b) << endl;
